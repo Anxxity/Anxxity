@@ -16,16 +16,15 @@
 
 # DBMS:
 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) !(https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-# нσѕтιηg:
-
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # тσσℓѕ
 
 ## ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=syno-sy&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syno-sy&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syno-sy&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="syno-sy" /></p>
