@@ -30,7 +30,7 @@
 
  ![anxxity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night&hide_rank=true)
  <br>
- ![Top Langs](https://github-readme-stats-two-nu-34.vercel.app/api/top-langs/?username=anxxity&theme=date_night)
+ ![Top Langs](https://github-readme-stats-two-nu-34.vercel.app/api/top-langs/?username=Anxxity&theme=date_night)
 <br>
 
 
