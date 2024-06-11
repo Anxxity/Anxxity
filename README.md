@@ -31,3 +31,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
+<a href="https://linktr.ee/reminmohammed" target="_blank">Contact Me</a>
