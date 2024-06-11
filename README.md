@@ -31,21 +31,7 @@
  ![anxxity's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night)
  <br>
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxxity&theme=date_night)
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
-<style>
-a:link, a:visited {
-   background-color: #5e0000;
-  color: white;
-  padding: 14px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  border-radius: 25px;;
-}
 
-a:hover, a:active {
-  background-color: red;
-}
-</style>
 <a href="https://linktr.ee/reminmohammed" target="_blank">Contact Me</a>
