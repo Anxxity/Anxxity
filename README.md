@@ -36,3 +36,4 @@
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Contact%20%20Me-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://linktr.ee/reminmohammed]
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://linktr.ee/reminmohammed)
