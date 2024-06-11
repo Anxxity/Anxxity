@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/photopea-18a497.svg?style=for-the-badge&logo=photopea&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
+<p><img align="center" ![anxxity's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)</p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
 <style>
