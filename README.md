@@ -33,5 +33,6 @@
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxxity&theme=date_night)
 <br>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/Contact%20%20Me-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://www.youtube.com/c/fknight?](https://linktr.ee/reminmohammed))
 
+
+[<img src="https://custom-icon-badges.demolab.com/badge/Contact%20%20Me-red?style=for-the-badge&logo=video&logoColor=white"/>]([https://linktr.ee/reminmohammed](https://linktr.ee/reminmohammed)
