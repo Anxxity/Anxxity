@@ -2,7 +2,7 @@
 
 <h3 align="center">©ᴍʏ ᴀɪᴍ ɪꜱ ᴛᴏ ᴄʀᴇᴀᴛᴇ  ꜱᴄʀɪᴘᴛꜱ ꜰᴏʀ ꜰɪᴠᴇᴍ</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syno-sy&label=Profile%20views&color=0e75b6&style=flat" alt="syno-sy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syno-sy&label=Profile%20views&color=0e75b6&style=flat" alt="Anxity" /> </p>
 
 # 🅛🅐🅝🅖🅤🅐🅖🅔🅢:
 
