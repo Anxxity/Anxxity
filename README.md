@@ -25,7 +25,7 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Figma]( https://img.shields.io/badge/photopea-blue?style=for-the-badge?logo=photopea)
+![Photopea](https://img.shields.io/badge/photopea-%23F24E1E.svg?style=for-the-badge&logo=photopea&logoColor=white)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anxxity&show_icons=true&hide=&count_private=true&layout=compact&theme=react&hide_border=true&show_icons=true" alt="Anxxity" /></p>
