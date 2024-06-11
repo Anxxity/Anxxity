@@ -32,7 +32,7 @@
  <br>
  ![Top Langs](https://github-readme-stats-two-nu-34.vercel.app/api/top-langs/?username=Anxxity&theme=date_night)
 <br>
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anxxity)
 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-red?style=for-the-badge&logo=video&logoColor=white"/>](https://linktr.ee/reminmohammed)
