@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photopea](https://img.shields.io/badge/photopea-18a497.svg?style=for-the-badge&logo=photopea&logoColor=white)
 
- ![anxxity's GitHub stats](https://github-readme-stats-two-nu-34.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night&hide_rank=true)
+ ![anxxity's GitHub stats](https://github-readme-stats-two-nu-34.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night&hide_rank=false)
  <br>
  ![TopLangs](https://github-readme-stats-two-nu-34.vercel.app/api/top-langs/?username=Anxxity&theme=date_night)
 <br>
