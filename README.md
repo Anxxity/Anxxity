@@ -42,9 +42,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
- <img src="https://github-readme-stats-jcog.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night&hide_rank=false" alt="GitHub Stats" />
+ <img src="https://github-readme-stats-sigma-puce.vercel.app/api?username=Anxxity&show_icons=true&theme=date_night&hide_rank=false" alt="GitHub Stats" />
  <br>
- <img src="https://github-readme-stats-jcog.vercel.app/api/top-langs/?username=Anxxity&theme=date_night" alt="Top Languages" />
+ <img src="https://github-readme-stats-sigma-puce.vercel.app/api/top-langs/?username=Anxxity&theme=date_night" alt="Top Languages" />
 </p>
 
 ---
