@@ -54,6 +54,9 @@
 <p align="center">
   <a href="https://linktr.ee/reminmohammed">
     <img src="https://custom-icon-badges.demolab.com/badge/Contact%20Me-red?style=for-the-badge&logo=video&logoColor=white" alt="Contact Me"/>
-      <img src="https://custom-icon-badges.demolab.com/badge/website-blue?style=for-the-badge&logo=website&logoColor=white" alt="Contact Me"/>
+  </a>
+ 
+   <a href="https://remin.space/">
+    <img src="https://custom-icon-badges.demolab.com/badge/website-blue?style=for-the-badge&logo=website&logoColor=white" alt="website"/>
   </a>
 </p>
